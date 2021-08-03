@@ -9,4 +9,4 @@ I am a Software Engineer / Fullstack Developer
 **Hackerrank**.   https://www.hackerrank.com/mhamza_141097<br/>
 #
 
-- ⚡ Fun fact: I am a part time _Graphics designer_ and _Vector artist_ as well!
+- ⚡ Fun fact: I love to play with _Graphics_ and _Vector arts_ as well!
