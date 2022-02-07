@@ -1,5 +1,5 @@
 ### Hi👋,
-I am a Software Engineer / Fullstack Developer
+I am a Software Engineer / Fullstack Developer / Certified Sugar Developer Specialist
 
 #
 - Software Engineer at Rolustech | _Sept 2020 - Present_<br/>
